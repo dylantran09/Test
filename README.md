@@ -1,2 +1,2 @@
-# TEST
-- make testing about 'git push -f'
+# Test
+# Test rebase
